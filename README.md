@@ -22,9 +22,7 @@
   </a>
 </p>
 
-## Etiquetas del proyecto
 
-`VPN` · `IPSec` · `IKEv2` · `Route-Based` · `VTI` · `Tunnel0` · `Site-to-Site` · `Cisco IOS` · `GNS3` · `Seguridad de Redes` · `P3` · `20250845`
 
 ---
 
@@ -35,7 +33,7 @@
 **Tipo de VPN:** IPSec IKEv2 Site-to-Site Route-Based  
 **Repositorio:** https://github.com/iClexi/VPN-IKEv2-Route-Based  
 **Video demostrativo:** https://youtu.be/UEmW42-w2ys  
-**Documentación técnica profesional:** [Docs/Documentacion Tecnica Profesional.pdf](Docs/Documentacion%20Tecnica%20Profesional.pdf)
+**Documentación técnica profesional:** [docs/Documentacion Tecnica Profesional.pdf](docs/Documentacion%20Tecnica%20Profesional.pdf)
 
 ---
 
