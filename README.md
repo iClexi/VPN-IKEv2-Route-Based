@@ -19,9 +19,6 @@
   </a>
 </p>
 
-## Etiquetas del proyecto
-
-`VPN` · `IPSec` · `IKEv2` · `Route-Based` · `VTI` · `Tunnel0` · `Site-to-Site` · `Cisco IOS` · `GNS3` · `Seguridad de Redes` · `P3` · `20250845`
 
 ---
 
