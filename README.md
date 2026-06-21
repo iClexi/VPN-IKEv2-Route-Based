@@ -17,8 +17,14 @@
   <a href="https://youtu.be/UEmW42-w2ys">
     <img src="https://img.shields.io/badge/Demo-YouTube-red" alt="Video YouTube">
   </a>
+  <a href="Docs/Documentacion%20Tecnica%20Profesional.pdf">
+    <img src="https://img.shields.io/badge/Documentacion-PDF-blueviolet" alt="Documentación Técnica Profesional">
+  </a>
 </p>
 
+## Etiquetas del proyecto
+
+`VPN` · `IPSec` · `IKEv2` · `Route-Based` · `VTI` · `Tunnel0` · `Site-to-Site` · `Cisco IOS` · `GNS3` · `Seguridad de Redes` · `P3` · `20250845`
 
 ---
 
@@ -28,7 +34,8 @@
 **Práctica:** P3  
 **Tipo de VPN:** IPSec IKEv2 Site-to-Site Route-Based  
 **Repositorio:** https://github.com/iClexi/VPN-IKEv2-Route-Based  
-**Video demostrativo:** https://youtu.be/UEmW42-w2ys
+**Video demostrativo:** https://youtu.be/UEmW42-w2ys  
+**Documentación técnica profesional:** [Docs/Documentacion Tecnica Profesional.pdf](Docs/Documentacion%20Tecnica%20Profesional.pdf)
 
 ---
 
@@ -77,6 +84,7 @@ R1 representa el sitio A y R2 representa el sitio B. El túnel VPN se establece 
 VPN-IKEv2-Route-Based/
 ├── README.md
 ├── Docs/
+│   └── Documentacion Tecnica Profesional.pdf
 ├── configs/
 │   ├── ISP.cfg
 │   ├── PC-A.txt
@@ -96,7 +104,7 @@ VPN-IKEv2-Route-Based/
     └── 08_r2_show_crypto_ipsec_sa.png
 ```
 
-La carpeta `configs/` contiene los scripts completos por dispositivo. La carpeta `images/` contiene las evidencias usadas en este README.
+La carpeta `Docs/` contiene la documentación técnica profesional en PDF. La carpeta `configs/` contiene los scripts completos por dispositivo. La carpeta `images/` contiene las evidencias usadas en este README.
 
 ---
 
