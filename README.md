@@ -23,7 +23,6 @@
 </p>
 
 
-
 ---
 
 **Estudiante:** Michael Robles  
@@ -85,8 +84,6 @@ VPN-IKEv2-Route-Based/
 │   └── Documentacion Tecnica Profesional.pdf
 ├── configs/
 │   ├── ISP.cfg
-│   ├── PC-A.txt
-│   ├── PC-B.txt
 │   ├── R1.cfg
 │   ├── R2.cfg
 │   ├── SW1.cfg
